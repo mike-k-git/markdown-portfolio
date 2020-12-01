@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+Favorite books:
+1. “Cleanness,” by Garth Greenwell
+2. “Stranger Faces,” by Namwali Serpell
